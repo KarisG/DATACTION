@@ -36,7 +36,7 @@ Pour testé le bon fonctionnement des différentes fonctionnalité de l'applicat
 
 Fonction d'administration
 -----------------------
-Le site dispose d'un ensemble de page d'administration fournit par jango pour y acceder rendez vous à l'adresse **http://127.0.0.1:8000/admin/**
+Le site dispose d'un ensemble de page d'administration fournit par django pour y acceder rendez vous à l'adresse **http://127.0.0.1:8000/admin/**
 Pour vous connectez vous pouvez crée un superuser avec la commande suivante : 
 ```bash
 python manage.py createsuperuser
