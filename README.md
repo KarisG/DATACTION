@@ -44,3 +44,17 @@ python manage.py createsuperuser
 ou bien utilisez le compte créé uniquement dans un but de démonstration:
 Username : admin
 Password : ultrasecurepwd
+
+outils et langages de dévellopement
+-----------------------
+Visual Studio Code
+Python - HTML - CSS - Javascript
+
+Contibuteurs
+-----------------------
+Abdel Bekhouche
+Nil Cailleux
+Mathieu Hanania
+Armand Boudin
+Moise Iloo
+Karis Gwet
