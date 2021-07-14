@@ -56,7 +56,7 @@ Python - HTML - CSS - Javascript
 
 ## Exemple de détection
 
-![Chargement de détection](https://github.com/KarisG/DATACTION/blob/main/bouteille.png)
+![Chargement de détection](https://github.com/KarisG/DATACTION/blob/main/bouteille.PNG)
 
 
 Contibuteurs
