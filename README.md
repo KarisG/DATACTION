@@ -45,10 +45,21 @@ ou bien utilisez le compte créé uniquement dans un but de démonstration:
 Username : admin
 Password : ultrasecurepwd
 
-outils et langages de dévellopement
+Outils et Langages de dévellopement
 -----------------------
 Visual Studio Code
 Python - HTML - CSS - Javascript
+
+## Exemple de chargement d'image
+
+![Chargement d'une image](https://github.com/KarisG/DATACTION/blob/main/chargement.png)
+
+## Exemple de détection
+
+![Chargement de détection](https://github.com/KarisG/DATACTION/blob/main/bouteille.png)
+
+
+![Chargement d'une image](https://github.com/KarisG/DATACTION/blob/main/chargement.png)
 
 Contibuteurs
 -----------------------
