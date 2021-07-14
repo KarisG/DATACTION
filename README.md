@@ -59,13 +59,11 @@ Python - HTML - CSS - Javascript
 ![Chargement de détection](https://github.com/KarisG/DATACTION/blob/main/bouteille.png)
 
 
-![Chargement d'une image](https://github.com/KarisG/DATACTION/blob/main/chargement.png)
-
 Contibuteurs
 -----------------------
-Abdel Bekhouche
-Armand Boudin
-Nil Cailleux
-Karis Gwet
-Mathieu Hanania
-Moise Iloo
+*Abdel Bekhouche : Design
+*Armand Boudin : Développeur WEB/Design
+*Nil Cailleux : Cartographie
+*Karis Gwet : Développeur IA
+*Mathieu Hanania : Cartographie
+*Moise Iloo : Développeur IA
