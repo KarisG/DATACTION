@@ -61,9 +61,9 @@ Python - HTML - CSS - Javascript
 
 Contibuteurs
 -----------------------
-* Abdel Bekhouche : Design
-* Armand Boudin : Développeur WEB/Design
-* Nil Cailleux : Cartographie
-* Karis Gwet : Développeur IA
-* Mathieu Hanania : Cartographie
-* Moise Iloo : Développeur IA
+* Abdel Bekhouche : *Design
+* Armand Boudin : *Développeur WEB/Design
+* Nil Cailleux : *Cartographie
+* Karis Gwet : *Développeur IA
+* Mathieu Hanania : *Cartographie
+* Moise Iloo : *Développeur IA
