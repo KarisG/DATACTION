@@ -53,8 +53,8 @@ Python - HTML - CSS - Javascript
 Contibuteurs
 -----------------------
 Abdel Bekhouche
-Nil Cailleux
-Mathieu Hanania
 Armand Boudin
-Moise Iloo
+Nil Cailleux
 Karis Gwet
+Mathieu Hanania
+Moise Iloo
