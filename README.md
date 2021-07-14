@@ -1,4 +1,4 @@
-![EFREI Paris](https://www.efrei.fr/wp-content/uploads/2019/06/Logo-Efrei-2017-Eng-Web.png)
+![Logo](https://github.com/KarisG/DATACTION/blob/main/logo.png)
 
 Dataction
 ============================
