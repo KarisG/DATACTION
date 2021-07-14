@@ -1,4 +1,4 @@
-![Logo](https://github.com/KarisG/DATACTION/blob/main/logo.png)
+![Logo](https://github.com/KarisG/DATACTION/blob/main/loggo.png)
 
 Dataction
 ============================
