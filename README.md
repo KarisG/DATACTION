@@ -59,6 +59,11 @@ Python - HTML - CSS - Javascript
 
 ![Chargement de détection](https://github.com/KarisG/DATACTION/blob/main/bouteille.PNG)
 
+## Exemple de map
+![Points sur la map](https://github.com/KarisG/Dataction/blob/main/points_map.png)
+
+## Exemple de coordonnées
+![Points sur la map](https://github.com/KarisG/Dataction/blob/main/coord.png)
 
 Contibuteurs
 -----------------------
