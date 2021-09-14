@@ -14,6 +14,7 @@ Afin de pouvoir exécuter l'application sur votre ordinateur, vous devez tout d'
 ```bash
 pip install -r requirements.txt
 ```
+Décompressez le saved_model.zip dans le dossier inference_graph
 
 Exécution
 -----------------------
